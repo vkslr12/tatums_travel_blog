@@ -1,0 +1,25 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* This body tag changes the background color */
+body{
+    background-color: #5210e1ec;
+}
+/* This changes the background gradient for the article tag*/
+article{
+    background-image: linear-gradient(to right, blue, purple );
+}
+/* This header tag gives a background image and changes the size while chaning the color as well */
+header{
+    background-image: url("https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwcGFub3JhbWF8ZW58MHx8MHx8&w=1000&q=80");
+    background-size: cover;
+    color: aqua;
+}
+/* This a tag changes the color and has text decoration set to none */
+a{
+    color: lightseagreen;
+    text-decoration: none;
+}
